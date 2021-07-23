@@ -1,0 +1,39 @@
+Month 1 average temperature: 44.774193548387096
+23 days were above average temperature
+
+Month 2 average temperature: 49.06896551724138
+10 days were above average temperature
+
+Month 3 average temperature: 52.32258064516129
+15 days were above average temperature
+
+Month 4 average temperature: 57.46666666666667
+13 days were above average temperature
+
+Month 5 average temperature: 64.16129032258064
+16 days were above average temperature
+
+Month 6 average temperature: 69.5
+14 days were above average temperature
+
+Month 7 average temperature: 75.12903225806451
+16 days were above average temperature
+
+Month 8 average temperature: 74.80645161290323
+17 days were above average temperature
+
+Month 9 average temperature: 69.36666666666666
+14 days were above average temperature
+
+Month 10 average temperature: 59.483870967741936
+15 days were above average temperature
+
+Month 11 average temperature: 50.43333333333333
+14 days were above average temperature
+
+Month 12 average temperature: 45.54838709677419
+15 days were above average temperature
+
+Average temperature for the year: 59.338453219626736
+6 months were above average temperature
+
