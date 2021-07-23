@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Collection/Collection.iml" filepath="$PROJECT_DIR$/Collection/Collection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Collection/Final/Final.iml" filepath="$PROJECT_DIR$/Collection/Final/Final.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Collection/Homeworks/Homeworks.iml" filepath="$PROJECT_DIR$/Collection/Homeworks/Homeworks.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/JavaLibrary.iml" filepath="$PROJECT_DIR$/.idea/JavaLibrary.iml" />
+    </modules>
+  </component>
+</project>
